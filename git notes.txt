@@ -1,0 +1,32 @@
+kkjkjkj
+
+SLA - 99.999999(11 9's) 
+
+LRS - GRS - ZRS
+
+
+Version control system
+
+1. Working Copy - untracked
+2. Tracked version
+3. Local copy  - git
+4. Remote copy - github
+
+
+To initialize a local repo:
+1. git init 
+2. git status - to check the untracked files
+3. git add . - current folder files are added for tracking
+4. git commit -m "message" - to add the tracked files to the local repo
+
+
+
+
+
+
+
+
+This is the first page
+
+asdflkdsjf
+
